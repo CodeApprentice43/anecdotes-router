@@ -1,14 +1,24 @@
 {
+<<<<<<< HEAD
   "name": "ultimate-hooks",
+=======
+  "name": "routed-anecdotes",
+>>>>>>> aea2a7b599094ac2c2f0ea765ad2dfbf8ad1a6fe
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
     "axios": "^1.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+=======
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.10.0",
+>>>>>>> aea2a7b599094ac2c2f0ea765ad2dfbf8ad1a6fe
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
@@ -16,8 +26,12 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+<<<<<<< HEAD
     "eject": "react-scripts eject",
     "server": "json-server --port=3005 --watch db.json"
+=======
+    "eject": "react-scripts eject"
+>>>>>>> aea2a7b599094ac2c2f0ea765ad2dfbf8ad1a6fe
   },
   "eslintConfig": {
     "extends": [
@@ -36,8 +50,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "json-server": "^0.17.1"
+=======
+>>>>>>> aea2a7b599094ac2c2f0ea765ad2dfbf8ad1a6fe
   }
 }
